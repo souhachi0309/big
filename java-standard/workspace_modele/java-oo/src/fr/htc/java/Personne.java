@@ -12,7 +12,6 @@ public class Personne {
 	}
 
 	public Personne(String nom, int anneeNaissance) {
-		super();
 		this.id=nbPerson++;
 		this.nom = nom;
 		this.anneeNaissance = anneeNaissance;
